@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://emicalculator.github.io/sitemap.xml
+Sitemap: https://emicalculatorhub.github.io/sitemap.xml
